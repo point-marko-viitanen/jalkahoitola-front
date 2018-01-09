@@ -17,7 +17,7 @@
     padding: 5px;
   }
 /**/
-  
+
   
 .modal-body {
     position: relative;
@@ -40,7 +40,15 @@
   width: 25em;
 }
 
-
+label.container {
+  color: black;
+}
+/* Uuden tuoteryhmä lisäys*/
+#addGrouptDiv {
+  
+  float: left;
+  width: 80%;
+}
 
 /* -appcomponent.css-
 .productgroups {
@@ -50,6 +58,16 @@
   width: 15em;
   border: 1px solid black;
 }*/
+
+/*
+.productgroups {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  height: collapse;
+  width: 15em;
+  border: 1px solid black;
+}
+*/
 
 .productgroups {
       height: 200px;
