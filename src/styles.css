@@ -48,7 +48,15 @@ label.container {
   
   float: left;
   width: 80%;
+  padding: 25px;
+  
 }
+
+input#name {
+  border: 1px solid black;
+
+  }
+
 
 /* -appcomponent.css-
 .productgroups {
