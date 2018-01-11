@@ -146,7 +146,7 @@ input#name {
     
     .jumbotron {
         height: 70%;    
-        background-image: linear-gradient(#69B5F8, #DAEFF7);
+        background-image: linear-gradient(#69B5F8, rgb(238, 27, 27));
         max-width: 100%; float: center;
        padding-top: 5px;
        padding-bottom: 5px;
