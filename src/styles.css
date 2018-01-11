@@ -2,7 +2,7 @@
 
 
 .body {
-  background-image: linear-gradient(#69B5F8, #DAEFF7);
+  background-image: linear-gradient(rgb(240, 113, 9), #DAEFF7);
   height: 100%;
   }
 
